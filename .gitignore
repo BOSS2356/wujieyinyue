@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.trae/
+曲库/
+public/quku/
+.DS_Store
+*.log
